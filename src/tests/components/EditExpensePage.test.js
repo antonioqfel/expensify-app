@@ -16,7 +16,7 @@ beforeEach(() => {
             removeExpense={removeExpense}
             history={history}
             expense={expenses[2]}
-        />
+        />got
     );
 });
 
